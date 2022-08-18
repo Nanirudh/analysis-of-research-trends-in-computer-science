@@ -1,0 +1,10 @@
+pandas
+numpy
+gensim
+nltk
+pyLDAvis
+networkx
+seaborn
+wordcloud
+matplotlib
+polyglot
